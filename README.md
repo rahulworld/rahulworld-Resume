@@ -1,3 +1,4 @@
 # rahulworld-Resume
-LaTex Resume
-![resume](rahulworld-Resume.pdf)
+#### LaTex Resume
+
+![rahulworld-Resume.pdf](rahulworld-Resume.pdf)
